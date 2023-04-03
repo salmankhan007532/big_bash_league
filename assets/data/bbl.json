@@ -1,0 +1,907 @@
+{
+  "schedule": [
+    {
+      "date": "13-Dec-2022 01:15 pM",
+      "teamOne": "Sydney Thunder",
+      "teamTwo": "Melbourne Stars",
+      "flagOne": "st.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": "Manuka Oval, Canberra",
+      "time": ""
+    },
+
+    {
+      "date": "14-Dec-2022 01:15 pM",
+      "teamOne": "Adelaide Strikers",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "as.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": "Adelaide Oval, Adelaide",
+      "time": " "
+    },
+
+
+    {
+      "date": "15-Dec-2022 01:15 pM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Melbourne Rengades",
+      "flagOne": "bh.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": "Cazalys Stadium (Cairns)",
+      "time": ""
+    },
+
+    {
+      "date": "16-Dec-2022 11:05 aM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Hobart Hurricanes",
+      "flagOne": "ms.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": " MCG",
+      "time": ""
+    },
+
+    {
+      "date": "16-Dec-2022 02:15 pM",
+      "teamOne": "Sydney Thunder",
+      "teamTwo": "Adelaide Strikers",
+      "flagOne": "st.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": "Sydney Showground Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "17-Dec-2022 01:05 pM",
+      "teamOne": "Perth Scorchers",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "ps.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": "Optus Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "18-Dec-2022 01:15 pM",
+      "teamOne": "Melbourne Rengades",
+      "teamTwo": "Sydney Thunder",
+      "flagOne": "mr.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": "Marvel Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "19-Dec-2022 01:15 pM",
+      "teamOne": "Hobart Hurricanes",
+      "teamTwo": "Perth Scorchers",
+      "flagOne": "hh.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": "University of Tasmania Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "20-Dec-2022 01:15 pM",
+      "teamOne": "Adelaide Strikers",
+      "teamTwo": "Sydney Thunder",
+      "flagOne": "sas.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": "Adelaide Oval, Adelaide",
+      "time": ""
+    },
+
+    {
+      "date": "21-Dec-2022 01:15 pM",
+      "teamOne": "Melbourne Rengades",
+      "teamTwo": "Brisbane Heat",
+      "flagOne": "mr.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": "GMHBA Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "22-Dec-2022 01:15 pM",
+      "teamOne": "Sydney Sixers",
+      "teamTwo": " Hobart Hurricanes",
+      "flagOne": "ss.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": "SCG",
+      "time": ""
+    },
+
+    {
+      "date": "23-Dec-2022 09:30 aM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Perth Scorchers",
+      "flagOne": "ms.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": "CitiPower Centre",
+      "time": ""
+    },
+
+    {
+      "date": "23-Dec-2022 01:00 pM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Adelaide Strikers",
+      "flagOne": "bh.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": "Gabba",
+      "time": ""
+    },
+
+    {
+      "date": "24-Dec-2022 09:30 pM",
+      "teamOne": "Hobart Hurricanes",
+      "teamTwo": "Melbourne Renegades",
+      "flagOne": "hh.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": "Blundstone Arena",
+      "time": ""
+    },
+
+    {
+      "date": "26-Dec-2022 12:05 pM",
+      "teamOne": "Sydney Sixers",
+      "teamTwo": "Melbourne Stars",
+      "flagOne": "ss.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": " Optus Stadium",
+      "time": ""
+    },
+
+
+    {
+      "date": "26-Dec-2022 03:15 pM",
+      "teamOne": "Perth Scorchers",
+      "teamTwo": "Adelaide Strikers",
+      "flagOne": "ps.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": " Optus Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "27-Dec-2022 01:15 pM",
+      "teamOne": "Sydney Thunder",
+      "teamTwo": "Brisbane Heat",
+      "flagOne": "st.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": " Sydney Showground Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "28-Dec-2022 01:15 pM",
+      "teamOne": "Sydney Sixers",
+      "teamTwo": "Melbourne Renegades ",
+      "flagOne": "ss.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": " SCG",
+      "time": ""
+    },
+
+
+    {
+      "date": "29-Dec-2022 12:05 pM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Sydney Thunder ",
+      "flagOne": "bh.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": " Metricon Stadium",
+      "time": ""
+    },
+    {
+      "date": "29-Dec-2022 03:15 pM",
+      "teamOne": " Perth Scorchers",
+      "teamTwo": "Melbourne Stars",
+      "flagOne": "ps.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": " MOptus Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "30-Dec-2022 12:30 pM",
+      "teamOne": " Melbourne Renegades",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "mr.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": " GMHBA Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "31-Dec-2022 09:30 aM",
+      "teamOne": " Sydney Thunder",
+      "teamTwo": "Hobart Hurricanes",
+      "flagOne": "st.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": " Lavington Sports Ground",
+      "time": ""
+    },
+
+    {
+      "date": "31-Dec-2022 01:00 pM",
+      "teamOne": " Adelaide Strikers",
+      "teamTwo": "Melbourne Stars",
+      "flagOne": "as.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": "  Adelaide Oval, Adelaide",
+      "time": ""
+    },
+
+    {
+      "date": "01-Jan-2023 07:40 aM",
+      "teamOne": " Melbourne Renegades",
+      "teamTwo": "Perth Scorchers",
+      "flagOne": "mr.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": " Marvel Stadium",
+      "time": ""
+    },
+
+
+    {
+      "date": "01-Jan-2023 01:15 pM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "bh.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": " Gabba",
+      "time": ""
+    },
+
+    {
+      "date": "02-Jan-2023 01:15 pM",
+      "teamOne": "Hobart Hurricanes",
+      "teamTwo": "Adelaide Strikers",
+      "flagOne": "hh.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": " Blundstone Arena",
+      "time": ""
+    },
+
+    {
+      "date": "03-Jan-2023 01:15 pM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Melbourne Renegades",
+      "flagOne": "ms.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": " MCG",
+      "time": ""
+    },
+
+    {
+      "date": "04-Jan-2023 12:05 pM",
+      "teamOne": "Sydney Sixers",
+      "teamTwo": "Brisbane Heart",
+      "flagOne": "ss.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": " Sydney Oval",
+      "time": ""
+    },
+
+    {
+      "date": "04-Jan-2023 03:15 pM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Sydney Thunder",
+      "flagOne": "ms.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": " Optus Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "05-Jan-2023 01:15 pM",
+      "teamOne": "Adelaide Strikers",
+      "teamTwo": "Hobart Hurricanes",
+      "flagOne": "as.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": " Oval, Adelaide",
+      "time": ""
+    },
+
+    {
+      "date": "06-Jan-2023 12:30 pM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "ms.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": " Sydney Sixers",
+      "time": ""
+    },
+
+    {
+      "date": "07-Jan-2023 01:15 pM",
+      "teamOne": "Melbourne Renegades ",
+      "teamTwo": "Hobart Hurricanes",
+      "flagOne": "mr.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": " Marvel Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "07-Jan-2023 03:15 pM",
+      "teamOne": "Perth Scorchers",
+      "teamTwo": "Brisbane Heat",
+      "flagOne": "ps.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": " Optus Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "08-Jan-2023 01:15 pM",
+      "teamOne": "Sydney Thunder",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "st.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": " Sydney Showground Stadium",
+      "time": ""
+    },
+
+    {
+      "date": "09-Jan-2023 01:15 pM",
+      "teamOne": "Hobart Hurricanes",
+      "teamTwo": "Melbourne Stars ",
+      "flagOne": "hh.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": " Blundstone Arena",
+      "time": ""
+    },
+
+    {
+      "date": "10-Jan-2023 01:40 pM",
+      "teamOne": "Adelaide Strikers",
+      "teamTwo": "Melbourne Renegades",
+      "flagOne": "as.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": " Adelaide Oval, Adelaide ",
+      "time": ""
+    },
+    {
+      "date": "11-Jan-2023 01:40 pM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Perth Scorchers",
+      "flagOne": "bh.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": " Gabba",
+      "time": ""
+    },
+    {
+      "date": "12-Jan-2023 01:15 pM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": "Adelaide Strikers ",
+      "flagOne": "ms.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": "  MCG",
+      "time": ""
+    },
+    {
+      "date": "13-Jan-2023 012:30 pM",
+      "teamOne": "Sydney Thunder",
+      "teamTwo": "Perth Scorchers",
+      "flagOne": "st.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": "  Showground Stadium",
+      "time": ""
+    },
+    {
+      "date": "14-Jan-2023 10:00 aM",
+      "teamOne": " Adelaide Strikers",
+      "teamTwo": "Brisbane Heat ",
+      "flagOne": "as.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": "   Adelaide Oval, Adelaide",
+      "time": ""
+    },
+    {
+      "date": "14-Jan-2023 01:30 pM",
+      "teamOne": " Melbourne Renegades ",
+      "teamTwo": " Melbourne Stars",
+      "flagOne": "mr.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": "Marvel Stadium",
+      "time": ""
+    },
+    {
+      "date": "15-Jan-2023 07:40 aM",
+      "teamOne": " Hobart Hurricanes",
+      "teamTwo": "Sydney Thunder ",
+      "flagOne": "hh.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": " Blundstone Arena",
+      "time": ""
+    },
+    {
+      "date": "15-Jan-2023 01:15 pM",
+      "teamOne": " Sydney Sixers",
+      "teamTwo": "Perth Scorchers ",
+      "flagOne": "ss.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": " SCG",
+      "time": " "
+    },
+    {
+      "date": "16-Jan-2023 01:15 pM",
+      "teamOne": "  Melbourne Stars",
+      "teamTwo": "Brisbane Heat ",
+      "flagOne": "ms.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": " MCG",
+      "time": ""
+    },
+    {
+      "date": "17-Jan-2023 01:15 pM",
+      "teamOne": " Sydney Sixers ",
+      "teamTwo": "Adelaide Strikers ",
+      "flagOne": "ss.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": "  C.ex Coffs International Stadium",
+      "time": ""
+    },
+    {
+      "date": "18-Jan-2023 01:40 pM",
+      "teamOne": "  Perth Scorchers ",
+      "teamTwo": " Hobart Hurricanes  ",
+      "flagOne": "ps.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": "  Optus Stadium",
+      "time": ""
+    },
+    {
+      "date": "19-Jan-2023 01:15 pM",
+      "teamOne": "  Sydney Thunder  ",
+      "teamTwo": "Melbourne Renegades ",
+      "flagOne": "st.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": "Manuka Oval, Canberra ",
+      "time": " "
+    },
+    {
+      "date": "20-Jan-2023 10:30 aM",
+      "teamOne": " Adelaide Strikers",
+      "teamTwo": "Perth Scorchers ",
+      "flagOne": "as.png",
+      "flagTwo": "ps.png",
+      "group": "A",
+      "venue": "Adelaide Oval, Adelaide ",
+      "time": " "
+    },
+    {
+      "date": "20-Jan-2023 02:00 pM",
+      "teamOne": " Brisbane Heat",
+      "teamTwo": "Hobart Hurricanes  ",
+      "flagOne": "bh.png",
+      "flagTwo": "hh.png",
+      "group": "A",
+      "venue": " A Gabba",
+      "time": " "
+    },
+    {
+      "date": "21-Jan-2023 01:05 pM",
+      "teamOne": " Sydney Sixers",
+      "teamTwo": "Sydney Thunder ",
+      "flagOne": "ss.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": "  SCG",
+      "time": " "
+    },
+    {
+      "date": "22-Jan-2023 07:40 aM",
+      "teamOne": "Brisbane Heat",
+      "teamTwo": "Melbourne Stars ",
+      "flagOne": "bh.png",
+      "flagTwo": "ms.png",
+      "group": "A",
+      "venue": "Gabba ",
+      "time": ""
+    },
+    {
+      "date": "22-Jan-2023 01:15 pM",
+      "teamOne": " Perth Scorchers",
+      "teamTwo": "Melbourne Renegades ",
+      "flagOne": "ps.png",
+      "flagTwo": "mr.png",
+      "group": "A",
+      "venue": " Optus Stadium",
+      "time": " "
+    },
+    {
+      "date": "23-Jan-2023 01:15 pM",
+      "teamOne": ", Hobart Hurricanes",
+      "teamTwo": "Sydney Sixers",
+      "flagOne": "hh.png",
+      "flagTwo": "ss.png",
+      "group": "A",
+      "venue": "Blundstone Arena ",
+      "time": " "
+    },
+    {
+      "date": "24-Jan-2023 01:15 pM",
+      "teamOne": "Melbourne Renegades",
+      "teamTwo": " Adelaide Strikers ",
+      "flagOne": "mr.png",
+      "flagTwo": "as.png",
+      "group": "A",
+      "venue": "Marvel Stadium ",
+      "time": ""
+    },
+    {
+      "date": "25-Jan-2023 07:40 aM",
+      "teamOne": " Hobart Hurricanes ",
+      "teamTwo": " Brisbane Heat",
+      "flagOne": "hh.png",
+      "flagTwo": "bh.png",
+      "group": "A",
+      "venue": " University of Tasmania Stadium",
+      "time": ""
+    },
+    {
+      "date": "25-Jan-2023 01:15 pM",
+      "teamOne": "Melbourne Stars",
+      "teamTwo": " Sydney Thunder",
+      "flagOne": "ms.png",
+      "flagTwo": "st.png",
+      "group": "A",
+      "venue": " MCG ",
+      "time": ""
+    },
+    {
+      "date": "27-Jan-2023 01:15 pM",
+      "teamOne": "The Eliminator",
+      "teamTwo": " The Eliminator ",
+
+      "venue": "To be conformed",
+      "time": ""
+    },
+
+    {
+      "date": "28-Jan-2023 01:15 pM",
+      "teamOne": "The Eliminator",
+      "teamTwo": " The Eliminator ",
+
+      "venue": " To be conformed",
+      "time": ""
+    },
+
+    {
+      "date": "29-Jan-2023 01:15 pM",
+      "teamOne": "The Eliminator",
+      "teamTwo": " The Eliminator ",
+
+      "venue": " To be conformed",
+      "time": ""
+    },
+
+    {
+      "date": "02-Feb-2023 01:15 pM",
+      "teamOne": "The Eliminator",
+      "teamTwo": " The Eliminator ",
+
+      "venue": "To be conformed",
+      "time": ""
+    },
+
+    {
+      "date": "04-Feb-2023 01:15 pM",
+      "teamOne": " Final The Eliminator",
+      "teamTwo": " Final The Eliminator ",
+
+      "venue": " To be conformed",
+      "time": ""
+    }
+  ],
+
+  "history":[
+    {
+      "winner": "Sydney Sixers",
+      "runnerUp": "Perth Scorchers",
+      "host": "Perth Scorchers",
+      "winnerFlag": "ss.png",
+      "runnerUpFlag": "ps.png",
+      "winnerCaptain": "assets/images/winner/ss winner.jpg",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "6/148 (20 overs)",
+      "runnerUpScore": "5/156 (20 overs)",
+      "year": "2011–12"
+    },
+
+    {
+      "winner": "Brisbane Heat",
+      "runnerUp": "Perth Scorchers",
+      "host": "Perth Scorchers",
+      "winnerFlag": "bh.png",
+      "runnerUpFlag": "ps.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "6/148 (20 overs)",
+      "runnerUpScore": "9/133 (20 overs)",
+      "year": "2012–13"
+    },
+
+    {
+      "winner": "Perth Scorchers",
+      "runnerUp": "Hobart Hurricanes",
+      "host": "Perth Scorchers",
+      "winnerFlag": "ps.png",
+      "runnerUpFlag": "hh.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "4/191 (20 overs)",
+      "runnerUpScore": "7/152 (20 overs)",
+      "year": "2013–14"
+    },
+
+    {
+      "winner": "Perth Scorcher",
+      "runnerUp": "Sydney Sixers",
+      "host": "Canberra/Perth Scorchers",
+      "winnerFlag": "ps.png",
+      "runnerUpFlag": "ss.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "6/148 (20 overs)",
+      "runnerUpScore": "5/147 (20 overs)",
+      "year": "2014–15"
+    },
+
+    {
+      "winner": "Sydney Thunder",
+      "runnerUp": "Melbourne Stars",
+      "host": "Melbourne Stars",
+      "winnerFlag": "st.png",
+      "runnerUpFlag": "ms.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "7/181 (19.3 overs)",
+      "runnerUpScore": "9/176 (20 overs)",
+      "year": "2015–16"
+    },
+
+    {
+      "winner": "Perth Scorchers",
+      "runnerUp": "Sydney Sixers",
+      "host": "Perth Scorchers",
+      "winnerFlag": "ps.png",
+      "runnerUpFlag": "ss.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "1/144 (15.5 overs)",
+      "runnerUpScore": "9/141 (20 overs)",
+      "year": "2016–17"
+    },
+
+    {
+      "winner": "Adelaide Strikers",
+      "runnerUp": "Hobart Hurricanes",
+      "host": "Adelaide Strikers",
+      "winnerFlag": "as.png",
+      "runnerUpFlag": "hh.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "2/202 (20 overs)",
+      "runnerUpScore": "5/177 (20 overs)",
+      "year": "2017–18"
+    },
+
+    {
+      "winner": "Melbourne Renegades",
+      "runnerUp": "Melbourne Stars",
+      "host": "Melbourne Renegades",
+      "winnerFlag": "mr.png",
+      "runnerUpFlag": "ms.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "5/145 (20 overs)",
+      "runnerUpScore": "7/132 (20 overs)",
+      "year": "2018–19"
+    },
+
+    {
+      "winner": "Sydney Sixers",
+      "runnerUp": "Melbourne Stars",
+      "host": "Sydney Sixers",
+      "winnerFlag": "ss.png",
+      "runnerUpFlag": "ms.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "5/116 (12 overs)",
+      "runnerUpScore": "6/97 (12 overs)",
+      "year": "2019–20"
+    },
+
+    {
+      "winner": "Sydney Sixers",
+      "runnerUp": "Perth Scorchers",
+      "host": "Sydney Sixers",
+      "winnerFlag": "ss.png",
+      "runnerUpFlag": "ps.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "6/188 (20 overs)",
+      "runnerUpScore": "9/161 (20 overs)",
+      "year": "2020–21"
+    },
+
+    {
+      "winner": "Perth Scorchers",
+      "runnerUp": "Sydney Sixers",
+      "host": "Perth Scorchers",
+      "winnerFlag": "ps.png",
+      "runnerUpFlag": "ss.png",
+      "winnerCaptain": "assets/history/dhoni.png",
+      "runnerUpCaptain":  "assets/history/younas.png",
+      "winnerScore": "6/171 (20 overs)",
+      "runnerUpScore": "10/92 (16.2 overs)",
+      "year": "2021–22"
+    }
+  ],
+
+  "teams": [
+
+  {
+    "fullName": "Adelaide Strikers",
+    "shortName": "NAM",
+    "captain": "Tahlia McGrath",
+    "flag": "assets/flags/as.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+
+  {
+    "fullName": "Brisbane Heat",
+    "shortName": "NAM",
+    "captain": "Jess Jonassen",
+    "flag": "assets/flags/as.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+  {
+    "fullName": "Hobart Hurricanes",
+    "shortName": "NAM",
+    "captain": "Elyse Villani",
+    "flag": "assets/flags/hh.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+
+  {
+    "fullName": "Melbourne Renegades",
+    "shortName": "NAM",
+    "captain": "Nic Maddinson",
+    "flag": "assets/flags/mr.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+  {
+    "fullName": "Melbourne Stars",
+    "shortName": "NAM",
+    "captain": "Nicole Faltum",
+    "flag": "assets/flags/ms.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+  {
+    "fullName": "Perth Scorchers",
+    "shortName": "NAM",
+    "captain": "Sophie Devine",
+    "flag": "assets/flags/ps.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+  {
+    "fullName": "Sydney Sixers",
+    "shortName": "NAM",
+    "captain": "Ellyse Perry",
+    "flag": "assets/flags/ss.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  },
+
+  {
+    "fullName": "Sydney Thunder",
+    "shortName": "NAM",
+    "captain": "Gerhard Erasmus",
+    "flag": "assets/flags/st.png",
+    "captainImage": "assets/captains/erasmus2.jpeg"
+  }
+
+
+],
+
+  "venues": [
+{
+"country": "Australia",
+"city": "Adelaide",
+"stadium": "Adelaide Oval",
+"image": "assets/venues/adelaide.jpeg"
+},
+{
+"country": "Australia",
+"city": "Brisbane",
+"stadium": "The Gabba",
+"image": "assets/venues/gabba.jpeg"
+},
+{
+"country": "Australia",
+"city": "Geelong",
+"stadium": "Kardinia Park",
+"image": "assets/venues/kardina.jpeg"
+},
+{
+"country": "Australia",
+"city": "Hobart",
+"stadium": "Bellerive Oval",
+"image": "assets/venues/bellerive.jpeg"
+},
+{
+"country": "Australia",
+"city": "Melbourne",
+"stadium": "MCG",
+"image": "assets/venues/mcg.jpeg"
+},
+{
+"country": "Australia",
+"city": "Perth",
+"stadium": "Perth Stadium",
+"image": "assets/venues/perth.jpeg"
+},
+{
+"country": "Australia",
+"city": "Sydney",
+"stadium": "SCG",
+"image": "assets/venues/scg.jpeg"
+}
+]
+}
